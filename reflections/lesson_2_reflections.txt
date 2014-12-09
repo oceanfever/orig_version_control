@@ -1,0 +1,4 @@
+Q1
+What happens when you initialize a repository? Why do you need to do it?
+A1 Git creates an empty repository on Branch Master and creates an "Initial commit," however this apparently does not count as a commit!! There are still zero commits.
+

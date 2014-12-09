@@ -1,4 +1,9 @@
 Q1
 What happens when you initialize a repository? Why do you need to do it?
-A1 Git creates an empty repository on Branch Master and creates an "Initial commit," however this apparently does not count as a commit!! There are still zero commits.
+A1 
+Git creates an empty repository on Branch Master and creates an "Initial commit," however this apparently does not count as a commit!! You then add files. There are still zero commits.
 
+Q2
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+A2
+The staging area is a subset of files from the working directory that are functionally part of a build. I assume this includeds relevant doccumentation files. These files are gathered or "added" to the staging ared before they are "locked in" as a commit. 

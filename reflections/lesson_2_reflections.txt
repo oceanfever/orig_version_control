@@ -8,3 +8,13 @@ How is the staging area different from the working directory and the repository?
 A2
 The staging area is a subset of files from the working directory that are functionally part of a build. I assume this includeds relevant doccumentation files. These files are gathered or "added" to the staging ared before they are "locked in" as a commit. 
 
+R3
+How can you use the staging area to make sure you have one commit per logical change?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will go over a concept called branching.git status
+
+R4
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" to hear a perspective from an experienced Git user.
+

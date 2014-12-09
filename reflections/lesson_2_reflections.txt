@@ -7,3 +7,4 @@ Q2
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2
 The staging area is a subset of files from the working directory that are functionally part of a build. I assume this includeds relevant doccumentation files. These files are gathered or "added" to the staging ared before they are "locked in" as a commit. 
+
